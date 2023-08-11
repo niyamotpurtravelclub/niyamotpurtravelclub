@@ -1,4 +1,4 @@
- div header{
+div header{
     font-size: 50px;
     background-color: antiquewhite;
     text-align: center;
@@ -32,4 +32,23 @@ td,th{
 table{
     margin-left: auto;
     margin-right: auto;
+}
+#password-form{
+    padding-top: 100px;
+    padding-left: 150px;
+}
+body{
+background-color:#afeeee;
+}
+#submit-button{
+ justify-content: center;
+ display: flex;
+ margin-left: 69px;
+ background-color:#e6e6fa;
+ padding:4px;
+ border-radius:5px ;
+}
+.fp{
+    padding: 8px;
+    margin-left:20px;
 }
