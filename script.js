@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function() {
       const enteredPassword = passwordInput.value;
   
       // Replace 'yourpassword' with the actual password
-      if (enteredPassword === "yourpassword") {
+      if (enteredPassword === "ntce2023") {
         passwordForm.style.display = "none";
         content.style.display = "block";
       } else {
