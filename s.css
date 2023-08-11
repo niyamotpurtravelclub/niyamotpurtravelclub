@@ -1,0 +1,24 @@
+#submit-button{
+    justify-content: center;
+    display: flex;
+    margin-left: 165px;
+    background-color:#e6e6fa;
+    padding:4px;
+    border-radius:5px ;
+   }
+   #password-form{
+       padding: 8px;
+       margin-left:75px;
+   }
+   body{
+    background-color:#81d8d0 ;
+   }
+   #password-input{
+    margin-left: 70px;
+   }
+   h1{
+   text-align: center;
+   }
+   .fp{
+    padding-left: 120px;
+   }
