@@ -40,15 +40,4 @@ table{
 body{
 background-color:#afeeee;
 }
-#submit-button{
- justify-content: center;
- display: flex;
- margin-left: 69px;
- background-color:#e6e6fa;
- padding:4px;
- border-radius:5px ;
-}
-.fp{
-    padding: 8px;
-    margin-left:20px;
-}
+
